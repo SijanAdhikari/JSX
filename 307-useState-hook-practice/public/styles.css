@@ -9,11 +9,15 @@ body {
 }
 
 h1 {
-  font-size: 100px;
+  font-size: 4rem;
+  color: #fff;
 }
 
+
 .container {
-  margin: 60% auto;
+  width:auto;
+  margin: block start 3px; ;
+  
 }
 
 button {
